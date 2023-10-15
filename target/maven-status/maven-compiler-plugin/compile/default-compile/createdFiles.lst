@@ -1,0 +1,10 @@
+br\com\addandias\todolist\utils\Utils.class
+br\com\addandias\todolist\filter\FilterTaskAuth.class
+br\com\addandias\todolist\user\UserModel.class
+br\com\addandias\todolist\task\ITaskRepository.class
+br\com\addandias\todolist\task\TaskController.class
+br\com\addandias\todolist\task\TaskModel.class
+br\com\addandias\todolist\TodolistApplication.class
+br\com\addandias\todolist\errors\ExceptionHandlerController.class
+br\com\addandias\todolist\user\UserController.class
+br\com\addandias\todolist\user\IUserRepository.class
